@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Mentxaka/CLionProjects/Pr_C.Ej02_Modulos/main.c
+stdio.h
+-
+operaciones.h
+C:/Users/Mentxaka/CLionProjects/Pr_C.Ej02_Modulos/operaciones.h
+
+C:/Users/Mentxaka/CLionProjects/Pr_C.Ej02_Modulos/operaciones.c
+operaciones.h
+C:/Users/Mentxaka/CLionProjects/Pr_C.Ej02_Modulos/operaciones.h
+
+C:/Users/Mentxaka/CLionProjects/Pr_C.Ej02_Modulos/operaciones.h
+

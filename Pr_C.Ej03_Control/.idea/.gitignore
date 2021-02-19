@@ -1,0 +1,10 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# CodeStream ignored files
+/../../Pr_C.Ej03_Control\.idea/codestream.xml
+# Datasource local storage ignored files
+/../../../../../../:\Users\Mentxaka\CLionProjects\Pr_C.Ej03_Control\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/

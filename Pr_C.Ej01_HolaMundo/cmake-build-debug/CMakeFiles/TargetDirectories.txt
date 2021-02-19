@@ -1,0 +1,3 @@
+C:/Users/Mentxaka/CLionProjects/Pr_C.Ej01_HolaMundo/cmake-build-debug/CMakeFiles/Pr_C_Ej01_HolaMundo.dir
+C:/Users/Mentxaka/CLionProjects/Pr_C.Ej01_HolaMundo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Mentxaka/CLionProjects/Pr_C.Ej01_HolaMundo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
